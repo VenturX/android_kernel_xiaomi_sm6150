@@ -4,7 +4,7 @@
 
 SECONDS=0
 
-ZIPNAME="LOSPerf-KSUNext-$(date '+%Y%m%d-%H%M').zip"
+ZIPNAME="LOSPerf-LN8K-KSUNext-$(date '+%Y%m%d-%H%M').zip"
 
 export ARCH=arm64
 export KBUILD_BUILD_USER=$(whoami)
